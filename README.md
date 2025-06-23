@@ -11,3 +11,6 @@
   - 하위항목
 >인용
 <img width="191" alt="스크린샷 2025-06-05 11 56 28" src="https://github.com/user-attachments/assets/6c93576b-fd62-477c-b209-6497207129df" />
+print("Enter your name:")
+name = input()
+print(f"Hello {name}")
