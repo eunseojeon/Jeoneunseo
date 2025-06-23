@@ -23,4 +23,8 @@
 - https://stackedit.io/
 - https://markdownlivepreview.com/
 
+## 참고 링크
+- Jetson 공식 홈페이지
+- YOLOv12 깃허브
+- Markdown 실습
 
