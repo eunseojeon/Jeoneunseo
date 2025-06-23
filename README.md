@@ -11,4 +11,6 @@
   - 하위항목
 >인용
 <img width="191" alt="스크린샷 2025-06-05 11 56 28" src="https://github.com/user-attachments/assets/6c93576b-fd62-477c-b209-6497207129df" />
+
+## 중요한 부분
 <img width="819" alt="스크린샷 2025-06-23 12 14 20" src="https://github.com/user-attachments/assets/1cb8a1f8-8636-4e1f-b23b-5078b30961fa" />
